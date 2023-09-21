@@ -7,8 +7,8 @@ Esta carpeta contiene Jupyter notebooks de diferentes pruebas de AG.
 
 A continuación se enumeran los ejemplos:
 
-- **[Algoritmo Genetico - OneMax](01Algoritmo_Genetico_OneMax.ipynb):** Este código ha sido escrito a mano, sin utilizar ningún framewor).
-- **[Algoritmo Genetico - OneMax con Deap](02Algoritmo_Genetico_OneMax_Deap.ipynb):** demonstrates how you can solve the brax task "humanoid" using PGPE, with GPU support, if available.
+- **[Algoritmo Genetico - OneMax](01Algoritmo_Genetico_OneMax.ipynb):** Este algoritmo se utiliza para abordar el problema OneMax sin utilizar ningun framework).
+- **[Algoritmo Genetico - OneMax con Deap](02Algoritmo_Genetico_OneMax_Deap.ipynb):** Este algoritmo se utiliza para abordar el problema OneMax utilizando el framework Deap.)
   
 ## Problema de la Mochila
   
