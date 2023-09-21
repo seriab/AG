@@ -16,3 +16,5 @@ A continuación se enumeran los ejemplos:
 - **[Nsga2 - Problema de la mochila con Deap](04Problema_de_la_mochila_con_nsga2_Deap.ipynb):** Este algoritmo se utiliza para abordar el problema de la mochila utilizando el framework Deap.
 - **[Nsga2 - Problema de la mochila con Platypus](05Problema_de_la_mochila_con_nsga2_Platypus.ipynb):** Este algoritmo se utiliza para abordar el problema de la mochila utilizando el framework Platypus.
 - **[Nsga2 - Problema de la mochila con Inspyred](06Problema_de_la_mochila_con_nsga2_Inspyred.ipynb):** Este Este algoritmo se utiliza para abordar el problema de la mochila utilizando el Inspyred.
+
+## Tabla comparativa entre los distintos framework
