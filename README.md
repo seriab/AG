@@ -7,8 +7,8 @@ Esta carpeta contiene Jupyter notebooks de diferentes pruebas de AG.
 
 A continuación se enumeran los ejemplos:
 
-- **[Algoritmo Genetico - OneMax](01Algoritmo_Genetico_OneMax.ipynb):** demonstrates how you can solve "LunarLanderContinuous-v2" using both `PGPE` and `CoSyNE` following the configurations described in [the paper proposing ClipUp](https://dl.acm.org/doi/abs/10.1007/978-3-030-58115-2_36) and [the JMLR paper on the CoSyNE algorithm](https://www.jmlr.org/papers/volume9/gomez08a/gomez08a.pdf).
-- **[Brax Experiments with PGPE](02Algoritmo_Genetico_OneMax_Deap.ipynb):** demonstrates how you can solve the brax task "humanoid" using PGPE, with GPU support, if available.
+- **[Algoritmo Genetico - OneMax](01Algoritmo_Genetico_OneMax.ipynb):** Este código ha sido escrito a mano, sin utilizar ningún framewor).
+- **[Algoritmo Genetico - OneMax con Deap](02Algoritmo_Genetico_OneMax_Deap.ipynb):** demonstrates how you can solve the brax task "humanoid" using PGPE, with GPU support, if available.
   
 ## Problema de la Mochila
   
