@@ -1,17 +1,18 @@
 # Practicas 
 
-Esta carpeta contiene Jupyter notebooks de diferentes pruebas de AG.
+Esta carpeta contiene Jupyter notebooks de diferentes pruebas.
 
 
 ## One-Max
 
-A continuación se enumeran los ejemplos:
+A continuación algunas soluciones:
 
 - **[Algoritmo Genetico - OneMax](01Algoritmo_Genetico_OneMax.ipynb):** Este algoritmo se utiliza para abordar el problema OneMax sin utilizar ningun framework.
 - **[Algoritmo Genetico - OneMax con Deap](02Algoritmo_Genetico_OneMax_Deap.ipynb):** Este algoritmo se utiliza para abordar el problema OneMax utilizando el framework Deap.
   
 ## Problema de la Mochila
-  
+A continuación algunas soluciones:
+
 - **[Nsga2 - Problema de la mochila](03Problema_de_la_mochila_real.ipynb):** Este algoritmo se utiliza para abordar el problema de la mochila sin utilizar ningun framework.
 - **[Nsga2 - Problema de la mochila con Deap](04Problema_de_la_mochila_con_nsga2_Deap.ipynb):** Este algoritmo se utiliza para abordar el problema de la mochila utilizando el framework Deap.
 - **[Nsga2 - Problema de la mochila con Platypus](05Problema_de_la_mochila_con_nsga2_Platypus.ipynb):** Este algoritmo se utiliza para abordar el problema de la mochila utilizando el framework Platypus.
