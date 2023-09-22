@@ -19,3 +19,7 @@ A continuación se enumeran los ejemplos:
 - **[Nsga2 - Problema de la mochila con Evotorch](06Problema_de_la_mochila_con_nsga2_Inspyred.ipynb):** Este Este algoritmo se utiliza para abordar el problema de la mochila utilizando el Evotorch.
 
 ## Tabla comparativa entre los distintos framework
+| Encabezado 1 | Encabezado 2 |
+|--------------|--------------|
+| Celda 1,1    | Celda 1,2    |
+| Celda 2,1    | Celda 2,2    |
