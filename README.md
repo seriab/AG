@@ -40,5 +40,5 @@ Comparación entre los distintos framework
 | Deap       | 1.4.2    | LGPL-3.0 license   | Paralelización en CPU   | Uso sencillo con muchas opciones | SI            | Muy completa    | - Genetic programming using prefix trees Loosely typed, Strongly typed  Automatically defined functions                                                                Evolution strategies (including CMA-ES) /                                                                                                                     Multi-objective optimisation (NSGA-II, NSGA-III, SPEA2, MO-CMA-ES) |
 | Platypus   | 1.1.0    | GPL-3.0 license    | Paralelización en CPU   | Uso simplificado        | SI            | Basica         | CMA-ES, NSGA-II, NSGA-III, GDE3, IBEA, MOEA/D, OMOPSO, EpsMOEA, SPEA2 |
 | Inspyred   | 1.0.1    | MIT license        |                         | Uso complejo             | Si pero complicada de utilizar | Amplia        | GA, ES, PSO, ACO, SA, PAES, NSGA-II |
-| Evotorch   | 0.4.1    | Apache-2.0 license | Paralelización en GPU   |                         | Basica        |                |                |
+| Evotorch   | 0.4.1    | Apache-2.0 license | Paralelización en GPU   |                         |              |Media           |                |
 
