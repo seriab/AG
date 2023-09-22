@@ -18,6 +18,8 @@ A continuación algunas soluciones:
 - **[Nsga2 - Problema de la mochila con Platypus](05Problema_de_la_mochila_con_nsga2_Platypus.ipynb):** Este algoritmo se utiliza para abordar el problema de la mochila utilizando el framework Platypus.
 - **[Nsga2 - Problema de la mochila con Inspyred](06Problema_de_la_mochila_con_nsga2_Inspyred.ipynb):** Este Este algoritmo se utiliza para abordar el problema de la mochila utilizando el Inspyred.
 - **[Nsga2 - Problema de la mochila con Evotorch](06Problema_de_la_mochila_con_nsga2_Inspyred.ipynb):** Este Este algoritmo se utiliza para abordar el problema de la mochila utilizando el Evotorch.
+- **[Nsga2 - Problema de la mochila utilizando realizando el calculo de la función del fitness en Pytorch]
+- **[Nsga2 - Problema de la mochila utilizando realizando el calculo de la función del fitness en Tensorflow]
 
 ## Frameworks de aprendizaje profundo
 - **[Pytorch]**
