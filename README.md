@@ -19,7 +19,7 @@ A continuación se enumeran los ejemplos:
 - **[Nsga2 - Problema de la mochila con Evotorch](06Problema_de_la_mochila_con_nsga2_Inspyred.ipynb):** Este Este algoritmo se utiliza para abordar el problema de la mochila utilizando el Evotorch.
 
 ## Tabla comparativa entre los distintos framework
-| Encabezado 1 | Encabezado 2 |
+
+| Programacion sin Framework  |Programacion con Framework|
 |--------------|--------------|
-| Celda 1,1    | Celda 1,2    |
-| Celda 2,1    | Celda 2,2    |
+|No se requiere dependencias de terceros y posee mayor flexibilidad al escribir código y nos obliga a tener una mejor compresión de los algoritmos genéticos para poder implementarlo, en contrapartida se requiere mayor cantidad de tiempo.    | Facilita el desarrollo ofreciendo funciones predefinidas para implementar los algoritmos y de esa manera ahorrar tiempo en la implementación y enfocando el esfuerzo en el problema específico a resolver. También ayuda utilizar las funciones aplicando las mejores prácticas y así evitar errores comunes, además la mayoría poseen documentación para facilitar la compresión del framework.   |
